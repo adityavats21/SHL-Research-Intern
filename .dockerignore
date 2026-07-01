@@ -1,0 +1,8 @@
+.git/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+data/sample_conversations.zip
+data/GenAI_SampleConversations/
+.DS_Store
